@@ -1,6 +1,4 @@
----
-layout: default
----
+
 # Pract01-IaaS-DSI
 ## Informe de la primera Práctica 1
 Después de conectarse a la VPN de la ULL y de conectarse a la Consola VNC, cambiaremos la contraseña, y averiguaremos la IP asignada. La IP asignada es 10.6.130.187 y la usaremos para conectarse por SSH a la máquina virtual.
